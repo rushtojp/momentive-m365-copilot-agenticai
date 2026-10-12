@@ -1,1 +1,3 @@
+Prompt Gallery
 
+https://adoption.microsoft.com/en-us/copilot/prompt-gallery/
