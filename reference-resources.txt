@@ -5,3 +5,7 @@ https://adoption.microsoft.com/en-us/copilot/prompt-gallery/
 AI prompts library
 
 https://mljar.com/ai-prompts/
+
+SAP and copilot integration 
+
+https://learn.microsoft.com/en-us/azure/sap/microsoft-ai/joule/joule-copilot-overview
