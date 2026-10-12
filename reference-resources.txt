@@ -1,3 +1,7 @@
 Prompt Gallery
 
 https://adoption.microsoft.com/en-us/copilot/prompt-gallery/
+
+AI prompts library
+
+https://mljar.com/ai-prompts/
