@@ -19,3 +19,7 @@ https://www.codecademy.com/learn/prompt-engineering-for-analytics/modules/prompt
 prompt insights widget for SAP
 
 https://community.sap.com/t5/technology-blog-posts-by-sap/enrich-sap-analytics-cloud-story-dashboards-using-the-ai-assisted-prompt/ba-p/14466018
+
+SAP and Microsoft copilot integration scenarios
+
+https://www.savictech.com/insights/sap-microsoft-copilot-deep-integration-what-cios-must-know-2026/
