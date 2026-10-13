@@ -15,3 +15,7 @@ https://learn.microsoft.com/en-us/azure/sap/workloads/integration-get-started#mi
 Best practices for data analysis prompts
 
 https://www.codecademy.com/learn/prompt-engineering-for-analytics/modules/prompt-engineering-for-analytics/cheatsheet
+
+prompt insights widget for SAP
+
+https://community.sap.com/t5/technology-blog-posts-by-sap/enrich-sap-analytics-cloud-story-dashboards-using-the-ai-assisted-prompt/ba-p/14466018
