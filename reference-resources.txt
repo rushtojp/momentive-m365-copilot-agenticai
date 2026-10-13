@@ -11,3 +11,7 @@ SAP and copilot integration
 https://learn.microsoft.com/en-us/azure/sap/microsoft-ai/joule/joule-copilot-overview
 
 https://learn.microsoft.com/en-us/azure/sap/workloads/integration-get-started#microsoft-copilot
+
+Best practices for data analysis prompts
+
+https://www.codecademy.com/learn/prompt-engineering-for-analytics/modules/prompt-engineering-for-analytics/cheatsheet
